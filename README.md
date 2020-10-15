@@ -3,8 +3,8 @@
 02 Nom: BOURGUELLE
 02 github: laureb01
 03 Nom: ALMECIJA
-03 github:
+03 github: cesar-alm
 04 Nom: ALVAREZ
-04 github:
+04 github: Enolv
 05 Nom: BELLON
-05 github:
+05 github: JudithBellon
